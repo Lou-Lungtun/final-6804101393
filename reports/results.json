@@ -133,12 +133,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 751,
+                  "duration": 3590,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-16T06:46:18.804Z",
+                  "startTime": "2026-10-16T07:14:33.515Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -167,12 +167,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 946,
+                  "duration": 904,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-16T06:46:19.661Z",
+                  "startTime": "2026-10-16T07:14:37.239Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -219,7 +219,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 688,
+                  "duration": 950,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
@@ -227,18 +227,18 @@
                   "steps": [
                     {
                       "title": "Login ผ่านหน้าเว็บไซต์จริง",
-                      "duration": 480
+                      "duration": 601
                     },
                     {
                       "title": "สร้าง Inventory Stub",
-                      "duration": 68
+                      "duration": 12
                     },
                     {
                       "title": "ตรวจสอบผลจาก Stub",
-                      "duration": 24
+                      "duration": 32
                     }
                   ],
-                  "startTime": "2026-10-16T06:46:20.619Z",
+                  "startTime": "2026-10-16T07:14:38.154Z",
                   "annotations": [
                     {
                       "type": "description",
@@ -295,7 +295,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 946,
+                  "duration": 901,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
@@ -303,22 +303,22 @@
                   "steps": [
                     {
                       "title": "Driver เตรียมสถานะ Login และเปิด Inventory",
-                      "duration": 581
+                      "duration": 559
                     },
                     {
                       "title": "ตรวจสอบสินค้าครบ 6 รายการ",
-                      "duration": 8
+                      "duration": 7
                     },
                     {
                       "title": "เพิ่ม Backpack และ Bike Light ลง Cart",
-                      "duration": 99
+                      "duration": 95
                     },
                     {
                       "title": "เปิด Cart และตรวจสอบสินค้าทั้งสองรายการ",
-                      "duration": 99
+                      "duration": 91
                     }
                   ],
-                  "startTime": "2026-10-16T06:46:21.321Z",
+                  "startTime": "2026-10-16T07:14:39.124Z",
                   "annotations": [
                     {
                       "type": "description",
@@ -375,7 +375,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1076,
+                  "duration": 1073,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
@@ -383,30 +383,30 @@
                   "steps": [
                     {
                       "title": "Login และตรวจสอบ Inventory",
-                      "duration": 513
+                      "duration": 486
                     },
                     {
                       "title": "เพิ่มสินค้าสองรายการ",
-                      "duration": 116
+                      "duration": 115
                     },
                     {
                       "title": "ตรวจสอบ Cart",
-                      "duration": 105
+                      "duration": 123
                     },
                     {
                       "title": "กรอก Checkout Information",
-                      "duration": 103
+                      "duration": 119
                     },
                     {
                       "title": "ตรวจสอบ Overview และสั่งซื้อ",
-                      "duration": 59
+                      "duration": 75
                     },
                     {
                       "title": "ตรวจสอบ Order Complete",
-                      "duration": 27
+                      "duration": 19
                     }
                   ],
-                  "startTime": "2026-10-16T06:46:22.284Z",
+                  "startTime": "2026-10-16T07:14:40.039Z",
                   "annotations": [
                     {
                       "type": "description",
@@ -463,7 +463,7 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1144,
+                  "duration": 1238,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
@@ -471,26 +471,26 @@
                   "steps": [
                     {
                       "title": "Login เพิ่มสินค้า และเปิด Checkout",
-                      "duration": 646
+                      "duration": 632
                     },
                     {
                       "title": "ตรวจสอบ First Name is required",
-                      "duration": 61
+                      "duration": 153
                     },
                     {
                       "title": "ตรวจสอบ Last Name is required",
-                      "duration": 85
+                      "duration": 97
                     },
                     {
                       "title": "ตรวจสอบ Postal Code is required",
-                      "duration": 89
+                      "duration": 72
                     },
                     {
                       "title": "แก้ไขข้อมูลและสั่งซื้อสำเร็จ",
-                      "duration": 137
+                      "duration": 147
                     }
                   ],
-                  "startTime": "2026-10-16T06:46:23.374Z",
+                  "startTime": "2026-10-16T07:14:41.125Z",
                   "annotations": [
                     {
                       "type": "description",
@@ -554,7 +554,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 836,
+                      "duration": 662,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
@@ -562,18 +562,18 @@
                       "steps": [
                         {
                           "title": "เปิดหน้า Login",
-                          "duration": 500
+                          "duration": 367
                         },
                         {
                           "title": "ส่งฟอร์มโดยไม่กรอกข้อมูล",
-                          "duration": 69
+                          "duration": 64
                         },
                         {
                           "title": "ตรวจสอบ Error และ URL",
-                          "duration": 23
+                          "duration": 22
                         }
                       ],
-                      "startTime": "2026-10-16T06:46:24.529Z",
+                      "startTime": "2026-10-16T07:14:42.378Z",
                       "annotations": [
                         {
                           "type": "description",
@@ -622,7 +622,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 2701,
+                      "duration": 727,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
@@ -630,18 +630,18 @@
                       "steps": [
                         {
                           "title": "เปิดหน้า Login และกรอก Username",
-                          "duration": 2437
+                          "duration": 439
                         },
                         {
                           "title": "กด Login โดยไม่กรอก Password",
-                          "duration": 43
+                          "duration": 58
                         },
                         {
                           "title": "ตรวจสอบ Error และ URL",
-                          "duration": 19
+                          "duration": 21
                         }
                       ],
-                      "startTime": "2026-10-16T06:46:25.374Z",
+                      "startTime": "2026-10-16T07:14:43.048Z",
                       "annotations": [
                         {
                           "type": "description",
@@ -690,7 +690,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 640,
+                      "duration": 672,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
@@ -698,18 +698,18 @@
                       "steps": [
                         {
                           "title": "เปิดหน้า Login และกรอกข้อมูลผิด",
-                          "duration": 381
+                          "duration": 404
                         },
                         {
                           "title": "กด Login",
-                          "duration": 66
+                          "duration": 61
                         },
                         {
                           "title": "ตรวจสอบ Error และ URL",
-                          "duration": 13
+                          "duration": 15
                         }
                       ],
-                      "startTime": "2026-10-16T06:46:28.082Z",
+                      "startTime": "2026-10-16T07:14:43.782Z",
                       "annotations": [
                         {
                           "type": "description",
@@ -775,7 +775,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 828,
+                      "duration": 774,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
@@ -783,18 +783,18 @@
                       "steps": [
                         {
                           "title": "เข้าสู่ระบบ SauceDemo",
-                          "duration": 513
+                          "duration": 454
                         },
                         {
                           "title": "เพิ่ม Sauce Labs Backpack ลงตะกร้า",
-                          "duration": 59
+                          "duration": 104
                         },
                         {
                           "title": "นำสินค้าออกจากตะกร้า",
-                          "duration": 61
+                          "duration": 42
                         }
                       ],
-                      "startTime": "2026-10-16T06:46:28.735Z",
+                      "startTime": "2026-10-16T07:14:44.467Z",
                       "annotations": [
                         {
                           "type": "description",
@@ -824,8 +824,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-10-16T06:46:18.329Z",
-    "duration": 11426.296,
+    "startTime": "2026-10-16T07:14:33.118Z",
+    "duration": 12266.22,
     "expected": 10,
     "skipped": 0,
     "unexpected": 0,
